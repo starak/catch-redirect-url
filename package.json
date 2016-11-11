@@ -1,0 +1,27 @@
+{
+  "name": "catch-redirect-url",
+  "version": "1.0.1",
+  "description": "Catching redirect url from headers without following it",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starak/catch-redirect-url.git"
+  },
+  "keywords": [
+    "http",
+    "redirect",
+    "https"
+  ],
+  "author": "starak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starak/catch-redirect-url/issues"
+  },
+  "homepage": "https://github.com/starak/catch-redirect-url#readme",
+  "devDependencies": {
+    "tap": "^8.0.0"
+  }
+}
