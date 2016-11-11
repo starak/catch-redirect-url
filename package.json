@@ -1,6 +1,6 @@
 {
   "name": "catch-redirect-url",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Catching redirect url from headers without following it",
   "main": "index.js",
   "scripts": {
